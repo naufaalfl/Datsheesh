@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    background-image: linear-gradient(90deg, #014871, #d7ede2);
+}
+
+.container{
+  background-color: transparent;
+  border-radius: 8px;
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 700px;
+  margin-top: 100px;
+  margin-left: 350px;
+}
+
+h2{
+  color: #fff;
+  margin-bottom: 30px;
+  text-align: center;
+
+}
+
+form {
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px 10 50px 10;
+    margin-bottom: 20px;    
+}
+
+label {
+    display: inline-block;
+    font-size: 15px;
+    color: #fff;
+
+}
+
+input {
+  background:transparent;
+  color: rgb(255, 255, 255);
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 5px;
+  margin-bottom: 30px;
+  width: 70%;
+
+}
+
+
+button {
+  background-color: transparent;
+  margin-top:10px;
+  margin-left: 20px;
+  border:2px solid white;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.soni{
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    text-align: center;
+}
+
+.soni:hover {
+    background-color: #e7e7e7;
+    transition-duration: 0.2s;
+}
+.sons{
+  color: #255784;
+  background: #2196f3;
+  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+
+.sons:hover {
+    background-color: #e7e7e7;
+    transition-duration: 0.2s;
+}
+
+.soi{
+    color: #255784;
+  background: #2196f3;
+  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+
+.soi:hover {
+    background-color: #e7e7e7;
+    transition-duration: 0.2s;
+}
+
+table{
+     align-items:center;
+     width: 44rem;
+}
+
+th, td {
+    border: 2px solid white;
+    padding: 8px;
+    text-align: left;
+    align-items:center;
+}
+
+th {
+    background-image: linear-gradient(to right, rgb(13, 52, 196), #0fefff);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    color: white;
+    border-radius:5px;
+    align-items:center;
+}
+
+tr {
+ background-color: transparent;
+  align-items:center;
+}
